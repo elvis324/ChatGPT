@@ -1,7 +1,7 @@
-#作为 OpenAI 开发的一种大型自然语言处理模型，ChatGPT 可以根据用户输入生成相应的文本回复，还会关联上下文，非常智能
+# 作为 OpenAI 开发的一种大型自然语言处理模型，ChatGPT 可以根据用户输入生成相应的文本回复，还会关联上下文，非常智能
 
-# ChatGPT
-如何使用Python调用ChatGPT
+# ChatGPT (如何使用Python调用ChatGPT)
+
 
   ChatGPT官网 https://openai.com/(https://openai.com/)
  

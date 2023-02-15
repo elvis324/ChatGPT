@@ -1,13 +1,18 @@
-# 作为 OpenAI 开发的一种大型自然语言处理模型，ChatGPT 可以根据用户输入生成相应的文本回复，还会关联上下文，非常智能
-
-# ChatGPT (如何使用Python调用ChatGPT)
 
 
-  ChatGPT官网 https://openai.com/(https://openai.com/)
+# ChatGPT 
+
+ 作为 OpenAI 开发的一种大型自然语言处理模型，ChatGPT 可以根据用户输入生成相应的文本回复，还会关联上下文，非常智能
+
+###  OpenAI官网 https://openai.com/(https://openai.com/)
  
   <img width="535" alt="image" src="https://user-images.githubusercontent.com/57925514/218942962-25ca437c-3140-4977-b4dc-9e13bbec18f6.png">
+  
+###  ChatGPT官网 https://chat.openai.com/auth/login(https://chat.openai.com/auth/login)
+  <img width="522" alt="image" src="https://user-images.githubusercontent.com/57925514/218943331-01cd5299-3d7c-421b-aafb-c86e66d3cf6c.png">
 
-
+####  如何使用Python调用ChatGPT
+ 
 　　1、获取 API Key
 
 　　 首先，需要在 OpenAI 官网注册账号并获取 API Key，该 Key 用于访问 OpenAI的
@@ -33,7 +38,7 @@
 
 　　model_engine = "text-davinci-002"
 
-　　prompt = "如何用 Python 玩转 ChatGPT"
+　　prompt = " Python 调用 ChatGPT"
 
 　　completions = openai.Completion.create(
 

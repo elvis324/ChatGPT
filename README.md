@@ -3,7 +3,7 @@
 # ChatGPT
 如何使用Python调用ChatGPT
 
-  https://openai.com/(!https://openai.com/)
+  https://openai.com/[!https://openai.com/]
 
 　　1、获取 API Key
 
